@@ -1,3 +1,6 @@
+This fork of node-wolfram fixes a broken dependcy request. The original requested a dependcy that doesn't exist so I fixed it so it requests and uses an existing version.
+
+
 wolfram [![Build Status](https://travis-ci.org/strax/node-wolfram.svg?branch=master)](https://travis-ci.org/strax/node-wolfram)
 =================================================
 
